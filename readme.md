@@ -92,7 +92,3 @@ The project also uses the following development dependencies:
 - tailwindcss: ^3.3.2
 - typescript: ^5.0.4
 - vite: ^4.3.5
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
